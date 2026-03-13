@@ -1,0 +1,12 @@
+{
+  "name": "rudel",
+  "version": "0.1.11",
+  "description": "CLI for uploading Claude Code session transcripts to Rudel",
+  "license": "MIT",
+  "bin": {
+    "rudel": "cli.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
