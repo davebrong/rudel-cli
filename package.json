@@ -1,8 +1,16 @@
 {
   "name": "rudel",
   "version": "0.1.11",
-  "description": "CLI for uploading Claude Code session transcripts to Rudel",
+  "description": "CLI for uploading Claude Code session transcripts for analytics",
   "license": "MIT",
+  "homepage": "https://agentic-stats.aidme.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davebrong/rudel-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davebrong/rudel-cli/issues"
+  },
   "bin": {
     "rudel": "cli.js"
   },
